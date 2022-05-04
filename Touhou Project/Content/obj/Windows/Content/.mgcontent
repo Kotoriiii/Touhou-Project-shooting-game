@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Fonts/Font.spritefont</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Fonts/Manual.spritefont</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Fonts/Menutext.spritefont</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Fonts/timerFont.spritefont</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/aircraft_large_idle_1.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/airplane.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/background.jpg</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/background-far.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/background-near.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/black_bullet.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/bullet.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/Button.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/enemyA.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/enemyB.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/finalBoss.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/knife_bullet.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/lingmeng.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/MapleLeaf.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/midBoss.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/missile_1.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/moveDown.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/moveLeft.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/moveRight.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/moveUp.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/player_bullet.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/red_bullet.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/secrectFeatureBullet.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/secretFeatureBullet.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/sky.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/Snow.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/snow_bullet.png</File>
+    <File>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/ultimate_bullet.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

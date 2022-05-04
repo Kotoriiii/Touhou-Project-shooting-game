@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Touhou Project", "Touhou Project.csproj", "{3A589BC5-1F58-4A5E-8D99-B888F7FCB88E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{40362A45-F83D-433C-8E2D-74DF272CDC1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A589BC5-1F58-4A5E-8D99-B888F7FCB88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A589BC5-1F58-4A5E-8D99-B888F7FCB88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A589BC5-1F58-4A5E-8D99-B888F7FCB88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A589BC5-1F58-4A5E-8D99-B888F7FCB88E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BA96588-A793-4D9A-8703-3AC344038BE7}
+	EndGlobalSection
+EndGlobal

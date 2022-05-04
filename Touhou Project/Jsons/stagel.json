@@ -1,0 +1,49 @@
+﻿{
+  "difficult": "medium",
+  "Waves": [
+    {
+      "id": "1",
+      "start": 0.00,
+      "end": 90.00,
+      "enemies": [
+        {
+          "enemyType": "A",
+          "movementType": "FOX",
+          "bulletType": "Linear",
+          "bulletTexture": "Source/bullet",
+          "enemyAmount": 20,
+          "start": 0.00,
+          "end": 31.00
+        },
+        {
+          "enemyType": "B",
+          "movementType": "PingPongThenVector",
+          "bulletType": "Linear",
+          "bulletTexture": "Source/bullet",
+          "enemyAmount": 5,
+          "start": 0.00,
+          "end": 31.00
+        },
+        {
+          "enemyType": "M",
+          "movementType": "PingPong",
+          "bulletType": "RadicalThenSpiral",
+          "bulletTexture": "Source/bullet",
+          "enemyAmount": 1,
+          "start": 31.00,
+          "end": 45.00
+        },
+        {
+          "enemyType": "F",
+          "movementType": "PingPongThenStay",
+          "bulletType": "Radical",
+          "bulletTexture": "Source/bullet",
+          "enemyAmount": 1,
+          "start": 46.00,
+          "end": 90.00
+        }
+      ]
+
+    }
+  ]
+}

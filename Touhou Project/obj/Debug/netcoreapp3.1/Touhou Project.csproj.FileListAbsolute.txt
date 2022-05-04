@@ -1,0 +1,877 @@
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.exe
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.deps.json
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.json
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.dev.json
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\15095\Desktop\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.AssemblyReference.cache
+C:\Users\15095\Desktop\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15095\Desktop\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfoInputs.cache
+C:\Users\15095\Desktop\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfo.cs
+C:\Users\15095\Desktop\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CoreCompileInputs.cache
+C:\Users\15095\Desktop\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CopyComplete
+C:\Users\15095\Desktop\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\15095\Desktop\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\15095\Desktop\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.genruntimeconfig.cache
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Font.xnb
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\airplane.xnb
+C:\Users\15095\Desktop\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Button.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Font.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\airplane.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Button.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.exe
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.deps.json
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.json
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.dev.json
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csprojAssemblyReference.cache
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfoInputs.cache
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfo.cs
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CoreCompileInputs.cache
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CopyComplete
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.genruntimeconfig.cache
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\missile_1.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Font.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\airplane.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Button.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\missile_1.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.exe
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.deps.json
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.json
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.dev.json
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.AssemblyReference.cache
+C:\Users\15095\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15095\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfoInputs.cache
+C:\Users\15095\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfo.cs
+C:\Users\15095\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CoreCompileInputs.cache
+C:\Users\15095\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CopyComplete
+C:\Users\15095\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\15095\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.genruntimeconfig.cache
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\lingmeng.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\bullet.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Menutext.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\sky.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Font.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Menutext.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\airplane.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\bullet.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Button.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\lingmeng.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\missile_1.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\sky.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.exe
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.deps.json
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.json
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.dev.json
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.AssemblyReference.cache
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfoInputs.cache
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfo.cs
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CoreCompileInputs.cache
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CopyComplete
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.genruntimeconfig.cache
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveDown.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveLeft.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveRight.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveUp.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyA.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyB.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Menutext.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\bullet.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyA.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyB.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\lingmeng.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveDown.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveLeft.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveRight.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveUp.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\sky.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\aircraft_large_idle_1.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Font.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Menutext.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\aircraft_large_idle_1.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\airplane.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\bullet.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Button.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyA.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyB.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\lingmeng.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\missile_1.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveDown.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveLeft.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveRight.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveUp.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\sky.xnb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.exe
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.deps.json
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.json
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.dev.json
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csprojAssemblyReference.cache
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfo.cs
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CopyComplete
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\Master\Desktop\新建文件夹 (3)\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.genruntimeconfig.cache
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\aircraft_large_idle_1.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-far.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-near.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\midBoss.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\finalBoss.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\aircraft_large_idle_1.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-far.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-near.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyA.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyB.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\finalBoss.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\midBoss.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveDown.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveLeft.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveRight.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveUp.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\manual.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Manual.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\timerFont.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Font.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Manual.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Menutext.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\timerFont.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\aircraft_large_idle_1.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\airplane.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-far.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-near.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\bullet.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Button.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyA.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyB.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\finalBoss.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\lingmeng.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\midBoss.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\missile_1.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveDown.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveLeft.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveRight.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveUp.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\sky.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.exe
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.deps.json
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.json
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.dev.json
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csprojAssemblyReference.cache
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfoInputs.cache
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfo.cs
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CoreCompileInputs.cache
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CopyComplete
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\wenzh\Desktop\Cpt_S 487\Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.genruntimeconfig.cache
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.AssemblyReference.cache
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfoInputs.cache
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfo.cs
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CoreCompileInputs.cache
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Font.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Manual.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Menutext.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\timerFont.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\aircraft_large_idle_1.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\airplane.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-far.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-near.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\bullet.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Button.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyA.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyB.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\finalBoss.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\lingmeng.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\midBoss.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\missile_1.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveDown.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveLeft.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveRight.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveUp.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\sky.xnb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.exe
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.deps.json
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.json
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.dev.json
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CopyComplete
+C:\Users\15095\Desktop\新建文件夹\teambadapple-Optimizing\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.genruntimeconfig.cache
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\timerFont.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Manual.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\timerFont.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-far.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-near.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\finalBoss.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\midBoss.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Font.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Manual.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Menutext.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\timerFont.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\aircraft_large_idle_1.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\airplane.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-far.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-near.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\bullet.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Button.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyA.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyB.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\finalBoss.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\lingmeng.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\midBoss.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\missile_1.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveDown.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveLeft.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveRight.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveUp.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\sky.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.exe
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.deps.json
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.json
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.dev.json
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.AssemblyReference.cache
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfoInputs.cache
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfo.cs
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CoreCompileInputs.cache
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CopyComplete
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.genruntimeconfig.cache
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\player_bullet.xnb
+C:\Users\15095\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\player_bullet.xnb
+C:\Users\15095\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\player_bullet.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Font.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Manual.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Menutext.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\timerFont.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\aircraft_large_idle_1.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\airplane.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-far.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-near.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\bullet.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Button.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyA.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyB.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\finalBoss.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\lingmeng.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\midBoss.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\missile_1.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveDown.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveLeft.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveRight.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveUp.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\player_bullet.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\sky.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.exe
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.deps.json
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.json
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.dev.json
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csprojAssemblyReference.cache
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfoInputs.cache
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfo.cs
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CoreCompileInputs.cache
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CopyComplete
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\wenzh\Desktop\Cpt_S 487\MileStone3\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.genruntimeconfig.cache
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Font.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Manual.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Menutext.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\timerFont.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\aircraft_large_idle_1.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\airplane.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-far.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-near.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\bullet.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Button.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyA.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyB.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\finalBoss.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\lingmeng.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\midBoss.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\missile_1.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveDown.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveLeft.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveRight.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveUp.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\player_bullet.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\sky.xnb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.exe
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.deps.json
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.json
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.dev.json
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.AssemblyReference.cache
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfoInputs.cache
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfo.cs
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CoreCompileInputs.cache
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CopyComplete
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\15095\Desktop\teambadapple-new_main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.genruntimeconfig.cache
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Font.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Manual.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Menutext.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\timerFont.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\aircraft_large_idle_1.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\airplane.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-far.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-near.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\bullet.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Button.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyA.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyB.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\finalBoss.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\lingmeng.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\midBoss.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\missile_1.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveDown.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveLeft.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveRight.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveUp.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\player_bullet.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\sky.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.exe
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.deps.json
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.json
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.dev.json
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfo.cs
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CopyComplete
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.genruntimeconfig.cache
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\BlackBullet.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\black_bullet.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\ultimate_bullet.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\snow_bullet.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\red_bullet.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\kinfe_bullet.xnb
+C:\Users\Master\Desktop\487bullet\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\knife_bullet.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\BlackBullet.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\kinfe_bullet.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\black_bullet.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\knife_bullet.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\player_bullet.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\red_bullet.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\snow_bullet.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\ultimate_bullet.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\BlackBullet.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\kinfe_bullet.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\black_bullet.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\knife_bullet.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\red_bullet.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\snow_bullet.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\ultimate_bullet.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\secrectFeatureBullet.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Snow.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\MapleLeaf.xnb
+C:\Users\leiaw\Desktop\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\secretFeatureBullet.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\BlackBullet.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\kinfe_bullet.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Font.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Manual.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Menutext.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\timerFont.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\aircraft_large_idle_1.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\airplane.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-far.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-near.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\black_bullet.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\bullet.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Button.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyA.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyB.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\finalBoss.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\knife_bullet.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\lingmeng.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\MapleLeaf.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\midBoss.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\missile_1.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveDown.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveLeft.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveRight.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveUp.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\player_bullet.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\red_bullet.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\secrectFeatureBullet.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\secretFeatureBullet.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\sky.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Snow.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\snow_bullet.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\ultimate_bullet.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.exe
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.deps.json
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.json
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.dev.json
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfo.cs
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CopyComplete
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.genruntimeconfig.cache
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Audio\BadApple.xnb
+C:\Users\Master\Desktop\487NOW\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Audio\ShootSound.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Audio\BadApple.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Audio\ShootSound.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\BlackBullet.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\kinfe_bullet.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Font.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Manual.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Menutext.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\timerFont.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\aircraft_large_idle_1.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\airplane.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-far.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-near.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\black_bullet.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\bullet.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Button.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyA.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyB.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\finalBoss.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\knife_bullet.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\lingmeng.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\MapleLeaf.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\midBoss.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\missile_1.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveDown.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveLeft.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveRight.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveUp.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\player_bullet.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\red_bullet.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\secrectFeatureBullet.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\secretFeatureBullet.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\sky.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Snow.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\snow_bullet.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\ultimate_bullet.xnb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.exe
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.deps.json
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.json
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.dev.json
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.AssemblyReference.cache
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfoInputs.cache
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfo.cs
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CoreCompileInputs.cache
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CopyComplete
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\ljq19\OneDrive\Desktop\teambadapple-main\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.genruntimeconfig.cache
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Audio\BadApple.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Audio\ShootSound.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\MapleLeaf.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\secrectFeatureBullet.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\secretFeatureBullet.xnb
+C:\Users\wenzh\Desktop\Cpt_S 487\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Snow.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Audio\BadApple.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Audio\ShootSound.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\BlackBullet.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\kinfe_bullet.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Font.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\manual.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\Menutext.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Fonts\timerFont.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\aircraft_large_idle_1.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\airplane.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-far.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background-near.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\background.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\black_bullet.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\bullet.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Button.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyA.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\enemyB.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\finalBoss.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\knife_bullet.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\lingmeng.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\MapleLeaf.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\midBoss.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\missile_1.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveDown.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveLeft.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveRight.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\moveUp.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\player_bullet.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\red_bullet.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\secrectFeatureBullet.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\secretFeatureBullet.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\sky.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\Snow.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\snow_bullet.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Content\Source\ultimate_bullet.xnb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.exe
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.deps.json
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.json
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.runtimeconfig.dev.json
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.AssemblyInfo.cs
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.csproj.CopyComplete
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.dll
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.pdb
+C:\Users\Master\Desktop\……！~R\teambadapple\Touhou Project\obj\Debug\netcoreapp3.1\Touhou Project.genruntimeconfig.cache
