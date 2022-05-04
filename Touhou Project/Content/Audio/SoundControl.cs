@@ -50,7 +50,7 @@ namespace Touhou_Project
 
         public void RunSound(SoundEffect SOUND, SoundEffectInstance INSTANCE)
         {
-            INSTANCE.Volume = 1f;
+            INSTANCE.Volume = 0.5f;
             INSTANCE.Play();
         }
     }

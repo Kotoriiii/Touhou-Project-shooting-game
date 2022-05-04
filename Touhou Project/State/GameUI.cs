@@ -19,7 +19,7 @@ namespace Touhou_Project
     {
         public class Rootobject
         {
-            public string difficult { get; set; }
+            public string difficulty { get; set; }
             public List<Wave> Waves { get; set; }
         }
         public class Wave
@@ -123,7 +123,7 @@ namespace Touhou_Project
         private Texture2D playerBullet_texture4;
         private Texture2D playerBullet_texture5;
         private bool cheeatMode = false;
-        private string difficult; 
+        private string difficulty; 
         public GameUI()
         {
             _playerDead = false;
@@ -171,7 +171,7 @@ namespace Touhou_Project
             midBossBulletTexture = enemyStatus[2].bulletTexture;
             finalBossBulletTexture = enemyStatus[3].bulletTexture;
 
-            difficult = records.difficult; 
+            difficulty = records.difficulty; 
         }
 
         public override void LoadContent()
@@ -194,12 +194,12 @@ namespace Touhou_Project
             timerFont = TextureFactory.Content.Load<SpriteFont>("Fonts/timerFont");
             playerBullet_texture = TextureFactory.Content.Load<Texture2D>("Source/player_bullet");
             secretFeatureBullet_texture = TextureFactory.Content.Load<Texture2D>("Source/secretFeatureBullet");
-
+            
             playerBullet_texture1 = TextureFactory.Content.Load<Texture2D>("Source/black_bullet");
-            playerBullet_texture2 = TextureFactory.Content.Load<Texture2D>("Source/ultimate_bullet");
+            playerBullet_texture2 = TextureFactory.Content.Load<Texture2D>("Source/knife_bullet");
             playerBullet_texture3 = TextureFactory.Content.Load<Texture2D>("Source/snow_bullet");
             playerBullet_texture4 = TextureFactory.Content.Load<Texture2D>("Source/red_bullet");
-            playerBullet_texture5 = TextureFactory.Content.Load<Texture2D>("Source/knife_bullet");   //// 这个需要注意一下刀尖的朝向。别用刀柄砸人嗷。
+            playerBullet_texture5 = TextureFactory.Content.Load<Texture2D>("Source/ultimate_bullet");
 
             // create scrolling background
             background = new ScrollingBackground(TextureFactory.Content.Load<Texture2D>("Source/background-far"), new Rectangle(0, -2000, 500, 3000));
@@ -270,7 +270,6 @@ namespace Touhou_Project
                 {
                     //call子弹清屏function
                     bombtriger = true;
-                    System.Diagnostics.Debug.WriteLine("Clear All Bullets!");
                 }
             });
         }
@@ -385,10 +384,10 @@ namespace Touhou_Project
         // Enemy A, B 改为 Midterm 和 Final_boss 的格式，位置跟新和子弹发射应全部在Update()中实现
         public override void Update(GameTime gameTime)
         {
-            if (difficult != "easy")
+            if (difficulty != "easy")
             {
                 int time = (int)gameTime.TotalGameTime.TotalSeconds;
-                if (difficult == "medium")
+                if (difficulty == "medium")
                 {
                     if(time % 5 == 0 && gameTime.TotalGameTime.TotalSeconds - (float)time < 0.001 && time - startTime > 20)
                     {

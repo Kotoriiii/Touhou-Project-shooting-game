@@ -317,18 +317,6 @@
 /processorParam:TextureFormat=Color
 /build:Source/secrectFeatureBullet.png
 
-#begin Source/secrectFeatureBullet.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:Source/secrectFeatureBullet.png
-
 #begin Source/secretFeatureBullet.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -376,6 +364,18 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:Source/snow_bullet.png
+
+#begin Source/ultimate_bullet.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Source/ultimate_bullet.png
 
 #begin Source/ultimate_bullet.png
 /importer:TextureImporter

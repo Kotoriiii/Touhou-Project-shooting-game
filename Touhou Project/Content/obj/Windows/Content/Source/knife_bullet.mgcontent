@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/Source/knife_bullet.png</SourceFile>
-  <SourceTime>2022-05-01T17:54:20-07:00</SourceTime>
-  <DestFile>C:/Users/ljq19/OneDrive/Desktop/teambadapple-main/Touhou Project/Content/bin/Windows/Content/Source/knife_bullet.xnb</DestFile>
-  <DestTime>2022-05-03T22:01:00.6398424-07:00</DestTime>
+  <SourceFile>C:/Users/ljq19/OneDrive/Desktop/teambadapple/Touhou Project/Content/Source/knife_bullet.png</SourceFile>
+  <SourceTime>2022-04-26T22:46:22-07:00</SourceTime>
+  <DestFile>C:/Users/ljq19/OneDrive/Desktop/teambadapple/Touhou Project/Content/bin/Windows/Content/Source/knife_bullet.xnb</DestFile>
+  <DestTime>2022-05-03T22:24:29.8110073-07:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T09:17:54-07:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
